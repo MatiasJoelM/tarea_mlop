@@ -11,6 +11,3 @@ __pycache__/
 env/
 venv/
 *.env
-
-# Ignorar modelos generados
-models/

@@ -1,0 +1,16 @@
+# Ignorar el archivo diabetes.csv
+data/diabetes.csv
+
+# Ignorar directorios y archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales
+env/
+venv/
+*.env
+
+# Ignorar modelos generados
+models/
